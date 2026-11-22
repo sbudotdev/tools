@@ -17,7 +17,7 @@ export function openApiSpec(serverUrl: string, priceUsd: string) {
       version: "1.0.0",
       description:
         `Security verdict for an npm package before an AI agent installs it: known CVEs (OSV.dev), typosquatting, deprecation and staleness, scored 0-100 with a source link for every signal. Paid per call (${priceUsd} USDC) over x402 via Circle Gateway; no account or API key.`,
-      contact: { url: "https://github.com/sbudotdev/sbu-tools/issues" },
+      contact: { url: "https://github.com/sbudotdev/tools/issues" },
       license: { name: "MIT", identifier: "MIT" },
     },
     servers: [{ url: serverUrl }],

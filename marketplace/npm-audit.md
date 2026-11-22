@@ -12,8 +12,8 @@ Intake form: https://agents.circle.com/services ("Get listed").
 | OpenAPI spec | `https://api.sbu.dev/openapi.json` |
 | Category | Developer tools / Software supply-chain security |
 | Price | $0.01 USDC per call |
-| Support | https://github.com/sbudotdev/sbu-tools/issues |
-| Source code | https://github.com/sbudotdev/sbu-tools (MIT) |
+| Support | https://github.com/sbudotdev/tools/issues |
+| Source code | https://github.com/sbudotdev/tools (MIT) |
 
 ## Example prompts for agents
 
